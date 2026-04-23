@@ -1,2 +1,0 @@
-pyTelegramBotAPI==4.14.0
-pg8000==1.30.3
